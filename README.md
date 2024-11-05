@@ -1,4 +1,4 @@
-# truc 2
+# truc
 
 ```mermaid
 mindmap
